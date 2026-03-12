@@ -26,7 +26,7 @@
 
 \* Equal Contribution  † Project leader  ‡ Corresponding Author -->
 
-**🔥 The first open-sourced diffusion vision-langauge-action model. [ICLR2026]**
+
 
 <!-- <hr style="border: 2px solid gray;"></hr> -->
 ## :loudspeaker: News!
